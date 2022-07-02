@@ -1,0 +1,61 @@
+.join-twitter-div{
+    background-color: black;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+
+
+.twitter-logo{
+    width: 50px;
+    display: block;
+}
+
+
+.h1-paragraph{
+    display: inline-block;
+    width: 500px;
+    color: white;
+    font-size: 30px;
+    font-family: Open Sans,Arial;
+}
+
+
+.join-today{
+    font-weight: bold;
+    font-family: Open Sans, Arial;
+    font-size: 35px;
+    color: white;
+    margin-bottom: 45px;
+}
+
+.or-text{
+    color: white;
+    font-family: Arial;
+    padding-left: 150px;
+    margin-bottom: 12px;
+}
+
+.policy{
+    color: rgb(142, 142, 142);
+    margin: 0;
+    font-size: 12px;
+    width: 320px;
+    margin-top: 7px;
+    margin-bottom: 70px;
+}
+
+.policy em{
+    color: rgb(22, 136, 202);
+    cursor: pointer;
+}
+
+.have-account{
+    color: white;
+    font-size: 18px;
+    font-family: Arial;
+    font-weight: bold;
+    margin-bottom: 18px;
+}
+
+
